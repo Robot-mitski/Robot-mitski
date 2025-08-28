@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left"> About me: https://robot-mitski.github.io/Space_cappuchino.github.io/ </h2>https://robot-mitski.github.io/Space_cappuchino.github.io/
+<h2 align="left"> About me: https://robot-mitski.github.io/Space_cappuchino.github.io/ </h2>
 
 ###
 
