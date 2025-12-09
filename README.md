@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Smirnova Nika and I'm a student, from Saint Petersburg </h2>
+<h2 align="left">Hi 👋! My name is Smirnova Nika and I'm a student from Saint Petersburg </h2>
 
 ###
 
